@@ -26,3 +26,6 @@ Luego, proporciona métodos públicos (getNombre(), setNombre(), getEdad() y set
 estas propiedades de manera controlada. El método setEdad() incluye una validación para asegurarse de que la edad no sea negativa.
 #Este enfoque de encapsulamiento permite que los datos internos de la clase sean protegidos y solo puedan ser accedidos o modificados 
 a través de métodos específicos, lo que facilita el mantenimiento, la validación y el control de la clase.
+
+![image](https://github.com/arianacatani2009/Pilares/assets/126585343/9c4f4eff-4214-4716-ae75-6039f97340e4)
+Conjunto de bienes, derechos y obligaciones que, al morir alguien, son transmisibles a sus herederos o a sus legatarios. 3. f. Conjunto de caracteres que los seres vivos reciben de sus progenitores
